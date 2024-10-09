@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
 
     background-color: brown ;
@@ -17,7 +17,7 @@ h1 {
     width: 100%;
     color: darkred;
 
->>>>>>> d3e81a234240b206fa142f0ca1a7d5c5b69476f3
+
 
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
