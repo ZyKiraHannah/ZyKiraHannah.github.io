@@ -40,7 +40,7 @@ border-radius: 25%;
         width: 150px;
         height: 200px;
         border-radius: 25%;
-        border: 2px solid rgb(126, 14, 201);
+        border: 2px solid rgb(85, 9, 228);
         }
 
         about p {
@@ -49,3 +49,4 @@ border-radius: 25%;
             margin: auto;
             line-height: 125%;
             }
+        }
