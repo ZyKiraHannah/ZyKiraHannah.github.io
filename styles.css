@@ -50,3 +50,12 @@ border-radius: 25%;
             line-height: 125%;
             }
         }
+
+        project img{
+            width: 300px;
+            height: 300px;
+            margin: 10px;
+            border: 2px solid rgb(25, 12, 141); /* choose a color */
+            display: block;
+            margin: auto;
+            }
