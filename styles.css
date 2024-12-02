@@ -19,7 +19,12 @@ h1 {
 
 
 
-.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+.projects { 
+ display:flex; 
+ flex-wrap:wrap; 
+
+} /* condensed to save space */
+
 .project {
 width: 30%;
 margin: 10px;
@@ -36,14 +41,14 @@ border-radius: 25%;
     justify-content: center;
     }
 
-    about img {
+    .about img {
         width: 150px;
         height: 200px;
         border-radius: 25%;
         border: 2px solid rgb(88, 8, 236);
         }
 
-        about p {
+        .about p {
             width:50%;
             text-align: center;
             margin: auto;
