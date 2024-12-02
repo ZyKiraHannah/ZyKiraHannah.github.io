@@ -35,7 +35,7 @@ border-radius: 25%;
 .project p{
     text-align: center;
     margin: 15px;
-    color:aqua;
+    color:rgb(214, 236, 9);
 }
 
 .about{
@@ -59,7 +59,7 @@ border-radius: 25%;
             margin: auto;
             line-height: 125%;
             }
-        }
+        
 
         .project img{ 
             width: 300px;
